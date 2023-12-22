@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: xiao's homepage
-description: Bookmark this to keep an eye on my project updates!
+# 自我介绍
+
+## 姓名
+肖潇
+
+## 出生年月
+2003.07
+
+## 签名
+欢迎来到我的主页
